@@ -1,0 +1,96 @@
+.
+├── index.html
+├── package.json
+├── package-lock.json
+├── project_tree.txt
+├── public
+│   └── video1.mp4
+├── README.md
+├── src
+│   ├── App.tsx
+│   ├── assets
+│   │   ├── 46d5bc8243dda45af32d8dad08f3b11b60f8bf40.png
+│   │   ├── 56226bb63c56f89d5a430f67270f03462a759be6.png
+│   │   ├── circleAsset.png
+│   │   ├── darkBgAsset.png
+│   │   ├── hero-mockup.jpg
+│   │   └── title-shape.png
+│   ├── Attributions.md
+│   ├── components
+│   │   ├── ClientReviewsSection.tsx
+│   │   ├── CommerceSection.tsx
+│   │   ├── DemoShowcase.tsx
+│   │   ├── FeaturesSection.tsx
+│   │   ├── figma
+│   │   │   └── ImageWithFallback.tsx
+│   │   ├── Header.tsx
+│   │   ├── HeroSection.tsx
+│   │   ├── InnerPagesSection.tsx
+│   │   ├── ResponsiveSection.tsx
+│   │   ├── ResponsiveShowcase.tsx
+│   │   ├── Router.tsx
+│   │   ├── TestimonialSection.tsx
+│   │   ├── ThemeCoreFeatures.tsx
+│   │   └── ui
+│   │       ├── accordion.tsx
+│   │       ├── alert-dialog.tsx
+│   │       ├── alert.tsx
+│   │       ├── aspect-ratio.tsx
+│   │       ├── avatar.tsx
+│   │       ├── badge.tsx
+│   │       ├── breadcrumb.tsx
+│   │       ├── button.tsx
+│   │       ├── calendar.tsx
+│   │       ├── card.tsx
+│   │       ├── carousel.tsx
+│   │       ├── chart.tsx
+│   │       ├── checkbox.tsx
+│   │       ├── collapsible.tsx
+│   │       ├── command.tsx
+│   │       ├── context-menu.tsx
+│   │       ├── dialog.tsx
+│   │       ├── drawer.tsx
+│   │       ├── dropdown-menu.tsx
+│   │       ├── form.tsx
+│   │       ├── hover-card.tsx
+│   │       ├── input-otp.tsx
+│   │       ├── input.tsx
+│   │       ├── label.tsx
+│   │       ├── menubar.tsx
+│   │       ├── navigation-menu.tsx
+│   │       ├── pagination.tsx
+│   │       ├── popover.tsx
+│   │       ├── progress.tsx
+│   │       ├── radio-group.tsx
+│   │       ├── resizable.tsx
+│   │       ├── scroll-area.tsx
+│   │       ├── select.tsx
+│   │       ├── separator.tsx
+│   │       ├── sheet.tsx
+│   │       ├── sidebar.tsx
+│   │       ├── skeleton.tsx
+│   │       ├── slider.tsx
+│   │       ├── sonner.tsx
+│   │       ├── switch.tsx
+│   │       ├── table.tsx
+│   │       ├── tabs.tsx
+│   │       ├── textarea.tsx
+│   │       ├── toggle-group.tsx
+│   │       ├── toggle.tsx
+│   │       ├── tooltip.tsx
+│   │       ├── use-mobile.ts
+│   │       └── utils.ts
+│   ├── global.d.ts
+│   ├── guidelines
+│   │   └── Guidelines.md
+│   ├── index.css
+│   ├── main.tsx
+│   ├── pages
+│   │   ├── HomePage.tsx
+│   │   ├── PortfolioPage.tsx
+│   │   └── ServicesPage.tsx
+│   └── styles
+│       └── globals.css
+└── vite.config.ts
+
+9 directories, 84 files
